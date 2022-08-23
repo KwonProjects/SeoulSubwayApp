@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140878852292",
+    "project_id": "seoulsubwa",
+    "storage_bucket": "seoulsubwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140878852292:android:8cf154b9a7c66db34dd991",
+        "android_client_info": {
+          "package_name": "co.kr.kwon.seoulsubwayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140878852292-46aqovj9ma205ivasla0scdr2r8tb6r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDByc9LH-f6oKL9r4Evuz-vl79z3dwBX-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140878852292-46aqovj9ma205ivasla0scdr2r8tb6r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
